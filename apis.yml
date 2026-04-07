@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: drug-enforcement-administration:drug-enforcement-administration
     name: Drug Enforcement Administration
-    tags:
-      - API
+    tags: []
     humanURL: >2-
 
       https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml
