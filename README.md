@@ -6,8 +6,7 @@ Count: 0: Abstract: The DEA API (Application Program Interface) enables a
 programmer to develop a program for a specific platform and integrate the DEA
 data into their verification system ...
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/drug-enforcement-administration/refs/heads/main/apis.yml)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/drug-enforcement-administration/refs/heads/main/apis.yml)
 
 ## Scope
 
@@ -19,10 +18,11 @@ https://raw.githubusercontent.com/api-evangelist/drug-enforcement-administration
 
  - Federal Government
 
+
 ## Timestamps
 
 - **Created:** 2024-12-03 
-- **Modified:** 2024-12-30 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
@@ -34,23 +34,15 @@ Date: 2006: Page Count: 0: Abstract: The DEA API (Application Program
 Interface) enables a programmer to develop a program for a specific
 platform and integrate the DEA data into their verification system ...
 
-**Human URL:** [
-https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml](
-https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml)
-
-
-#### Tags:
-
- - API
+**Human URL:** [https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml)
 
 #### Properties
 
-- [Documentation](
-https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml)
+- [Documentation](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml)
 
 ## Maintainers
 
 **FN:** Kin Lane
 
-**Email:** info@apievangelist.com
+**Email:** kin@apievangelist.com
 

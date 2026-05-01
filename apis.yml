@@ -1,18 +1,13 @@
 aid: drug-enforcement-administration
-url: >2-
-
+url: >-
   https://raw.githubusercontent.com/api-evangelist/drug-enforcement-administration/refs/heads/main/apis.yml
 apis:
   - aid: drug-enforcement-administration:drug-enforcement-administration
     name: Drug Enforcement Administration
     tags: []
-    humanURL: >2-
-
-      https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml
+    humanURL: https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml
     properties:
-      - url: >2-
-
-          https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml
+      - url: https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/DEA25000.xhtml
         type: Documentation
     description: >-
       Drug Enforcement Administration (DEA) Registration File API for Web Developers
@@ -27,7 +22,7 @@ type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-03-16'
+modified: '2026-04-28'
 position: Consuming
 description: >-
   Drug Enforcement Administration (DEA) Registration File API for Web Developers (on
