@@ -2,6 +2,8 @@ aid: drug-enforcement-administration
 url: >-
   https://raw.githubusercontent.com/api-evangelist/drug-enforcement-administration/refs/heads/main/apis.yml
 common:
+  - type: DomainSecurity
+    url: security/drug-enforcement-administration-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/school/drug-enforcement-administration
 apis:
