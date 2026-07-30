@@ -24,7 +24,19 @@ name: Drug Enforcement Administration
 tags:
   - Federal Government
 kind: contract
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/drug-enforcement-administration.png
 access: 3rd-Party
 created: '2024-12-03'
 modified: '2026-04-28'
