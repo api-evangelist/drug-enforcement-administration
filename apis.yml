@@ -22,9 +22,10 @@ apis:
       their verification system ...
 name: Drug Enforcement Administration
 tags:
-  - Federal-Government
+  - Federal Government
 tags_raw:
   - Federal Government
+  - Federal-Government
 kind: contract
 deliveryModel:
   model: unknown
